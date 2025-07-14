@@ -3,7 +3,7 @@
 This Power BI project is based on open data from a retail electronics company in Kazakhstan, operating 12 stores (large, medium, small) over a 4-year period. The dashboard consists of 20 interactive pages and is designed for in-depth business performance analysis with user-friendly navigation and dynamic insights.
 
 
--	🔗 Live Report: Explore the interactive dashboard
+-	🔗 Live Report: [Explore the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGRlYTU2MTItZGE5Yy00YTc5LWEzMDctNzQ5NGRhOTZmNzM4IiwidCI6Ijk5MzAyNjhjLTU1MmUtNDUzZS1iODJjLWZkZWM0NGQ2NjFiZCIsImMiOjl9)
 -	📅 Years Covered: 4 years
 -	🏪 Stores: 12 (Large, Medium, Small)
 -	📄 Total Pages: 20
