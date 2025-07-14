@@ -1,4 +1,4 @@
-# Excel Project: Automated ORDER for Payment Form
+# Excel Project: ORDER for Payment Form
 
 
 This project showcases a custom-designed Excel-based payment request form used within a company's official financial workflow. 
