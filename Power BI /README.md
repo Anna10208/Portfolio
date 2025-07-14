@@ -28,7 +28,8 @@ This Power BI project is based on open data from a retail electronics company in
  
 
 🔍 Report Structure
-📌 1. Homepage
+
+-  Homepage
 -	Interactive menu with navigation buttons to each report section.
 -	Present on every page: "Home" button + contextual section links.
  
