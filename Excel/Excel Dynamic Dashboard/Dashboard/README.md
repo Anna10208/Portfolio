@@ -25,7 +25,7 @@ This project demonstrates Excel’s capability to serve as a powerful, user-frie
 
 -	Hidden preparatory sheet with 16 pivot tables
 -	9 slicers for real-time interactivity
--	Bar charts (vertical & horizontal), pie charts, and summary cards
+-	Bar charts, pie charts, and summary cards
 -	Checkboxes and scroll bars as interactive controls
 -	Dynamic formulas and named ranges for smooth interlinking
 
