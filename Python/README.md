@@ -13,8 +13,6 @@ This analysis serves as a learning project to apply core pandas and numpy skills
 
 
 
-▶️ How to Run
-You can open and run the notebook directly in Google Colab:
 
 
  🛠️ Tools & Libraries Used
